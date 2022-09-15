@@ -1,0 +1,12 @@
+C:\Users\47755041\source\repos\Prueba 7\Prueba 7\bin\Debug\Prueba 7.exe.config
+C:\Users\47755041\source\repos\Prueba 7\Prueba 7\bin\Debug\Prueba 7.exe
+C:\Users\47755041\source\repos\Prueba 7\Prueba 7\bin\Debug\Prueba 7.pdb
+C:\Users\47755041\source\repos\Prueba 7\Prueba 7\obj\Debug\Prueba 7.csprojAssemblyReference.cache
+C:\Users\47755041\source\repos\Prueba 7\Prueba 7\obj\Debug\Prueba_7.Properties.Resources.resources
+C:\Users\47755041\source\repos\Prueba 7\Prueba 7\obj\Debug\Prueba 7.csproj.GenerateResource.cache
+C:\Users\47755041\source\repos\Prueba 7\Prueba 7\obj\Debug\Prueba 7.csproj.CoreCompileInputs.cache
+C:\Users\47755041\source\repos\Prueba 7\Prueba 7\obj\Debug\Prueba 7.exe
+C:\Users\47755041\source\repos\Prueba 7\Prueba 7\obj\Debug\Prueba 7.pdb
+C:\Users\47755041\source\repos\Prueba 7\Prueba 7\obj\Debug\Prueba_7.Cero.resources
+C:\Users\47755041\source\repos\Prueba 7\Prueba 7\obj\Debug\Prueba_7.UnoA.resources
+C:\Users\47755041\source\repos\Prueba 7\Prueba 7\obj\Debug\Prueba_7.UnoB.resources
